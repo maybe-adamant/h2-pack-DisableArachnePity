@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-DisableArachnePity"
+name = "DisableArachnePity"
 versionNumber = "1.0.0"
 description = "Disables Arachne Pity entirely for Anyfear runs."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-DisableArachnePity"
