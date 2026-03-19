@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "DisableArachnePity"
 versionNumber = "1.0.0"
 description = "Disables Arachne Pity entirely for Anyfear runs."
-websiteUrl = "https://github.com/maybe-adamant/h2-pack-DisableArachnePity"
+websiteUrl = "https://github.com/maybe-adamant/h2-modpack-DisableArachnePity"
 containsNsfwContent = false
 
 [package.dependencies]
